@@ -1,0 +1,4 @@
+baseURL = 'https://winniemonica.github.io'
+languageCode = 'en-us'
+title = 'Winnie Site'
+theme = 'hello-friend'
